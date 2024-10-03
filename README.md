@@ -23,7 +23,7 @@ The notebook performs the following analysis:
 * **Data Exploration:**  Calculates descriptive statistics and visualizes the data using box plots and violin plots to understand the distributions and relationships between variables.
 * **Conversion Rate Calculation:** Calculates conversion rates by different features like number of contacts and job.
 * **Data Preprocessing:** Encodes categorical variables (job, marital, education, etc.) using one-hot encoding.
-* **Decision Tree Modeling:** Builds a decision tree model to predict conversion and visualizes the tree using Graphviz.
+* **Decision Tree Modeling:** Builds a decision tree model to predict conversion and visualizes the tree.
 * **Feature Importance:**  Evaluates the importance of different features in the decision tree model.
 
 
